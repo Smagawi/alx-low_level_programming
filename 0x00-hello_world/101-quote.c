@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - prints to the standard error
  *
@@ -6,8 +7,6 @@
  */
 int main(void)
 {
-	stderr = s
-
-	fprintf(s, ""and that piece of art is useful"- Dora Korpar, 2015-10-19\n");
+	fputs(stderr, ""and that piece of art is useful"- Dora Korpar, 2015-10-19\n");
 	return (1);
 }
