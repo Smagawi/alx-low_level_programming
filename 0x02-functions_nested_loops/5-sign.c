@@ -5,7 +5,7 @@
  * @n: the number of sign to be printed
  * Return: 1 if number is greater than zero
  * 0 of the number is zero
- * 1 if number is less than zero
+ * -1 if number is less than zero
  */
 
 int print_sign(int n)
