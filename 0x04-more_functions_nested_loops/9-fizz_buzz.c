@@ -20,8 +20,8 @@ int main(void)
 			printf("Fizzbuz");
 		else
 			printf("%d", i);
-		putchar(' ');
+		printf("_");
 	}
-	putchar(10);
+	printf("\n");
 	return (0);
 }
